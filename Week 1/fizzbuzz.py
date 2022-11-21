@@ -1,3 +1,6 @@
+from tkinter import N
+
+
 class Solution(object):
     def fizzBuzz(self, n):
         """
